@@ -21,7 +21,8 @@ Welcome to **Football Arena**, a full-featured ASP.NET MVC web application desig
 
 IconicsArena/
 │
-├── App_Data/
+├── App_Data
+
 │
 ├── App_Start/
 │   ├── BundleConfig.cs
