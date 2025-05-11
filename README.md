@@ -21,9 +21,6 @@ Welcome to **Football Arena**, a full-featured ASP.NET MVC web application desig
 
 <pre> IconicsArena/ ├── App_Data/ ├── App_Start/ │ ├── BundleConfig.cs │ ├── FilterConfig.cs │ ├── RouteConfig.cs │ └── WebApiConfig.cs ├── Content/ ├── Context/ │ └── FootballArena.edmx ├── Controllers/ │ ├── AccountController.cs │ ├── CartController.cs │ ├── HomeController.cs │ ├── OrderController.cs │ ├── ProductController.cs │ ├── SlotsController.cs │ ├── UserController.cs │ └── api/ │ └── UsersController.cs ├── Images/ │ └── assets/ │ └── Picture/ ├── Models/ ├── Scripts/ ├── ViewModel/ │ ├── LoginVM.cs │ └── SignUpVM.cs ├── Views/ │ ├── Account/ │ │ ├── EditAccount.cshtml │ │ ├── Login.cshtml │ │ ├── ShowAccount.cshtml │ │ └── SignUp.cshtml │ ├── Cart/ │ │ └── GetCart.cshtml │ ├── Home/ │ │ ├── About.cshtml │ │ ├── Contact.cshtml │ │ └── Index.cshtml │ ├── Order/ │ │ ├── BookingHistory.cshtml │ │ ├── Checkout.cshtml │ │ ├── OrderConfirmation.cshtml │ │ ├── PurchaseHistory.cshtml │ │ └── Statistics.cshtml │ ├── Product/ │ │ ├── AddProducts.cshtml │ │ ├── EditProduct.cshtml │ │ ├── GetProducts.cshtml │ │ └── ShowProducts.cshtml │ ├── Shared/ │ │ ├── _Layout.cshtml │ │ └── Error.cshtml │ ├── Slots/ │ │ ├── AddSlot.cshtml │ │ ├── BookSlots.cshtml │ │ ├── EditSlot.cshtml │ │ ├── RemoveSlots.cshtml │ │ └── ShowSlots.cshtml │ └── User/ │ └── GetUsers.cshtml │ └── _ViewStart.cshtml ├── favicon.ico ├── Global.asax ├── packages.config └── Web.config </pre>
 
-yaml
-Copy
-Edit
 
 ---
 
