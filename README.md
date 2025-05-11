@@ -59,6 +59,7 @@ Build the solution.
 Run with IIS Express or configure it in your preferred local server setup.
 
 📸 Screenshots
+
 🏠 Home Page
 ![image](https://github.com/user-attachments/assets/3c41bdaf-a0d3-4ce0-8190-35bf8afbfa70)
 
