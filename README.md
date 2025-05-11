@@ -105,8 +105,6 @@ IconicsArena/
 ├── packages.config
 └── Web.config
 
-
-
 ---
 
 ## 🛠️ Setup Instructions
