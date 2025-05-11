@@ -1,6 +1,6 @@
 # 🏟️ Football Arena – ASP.NET Web Application
 
-Welcome to **Football Arena**, a full-featured ASP.NET MVC web application designed to manage football activities such as Fild slot booking, Buy Products, cart management, and admin slot controls. This project demonstrates the integration of MVC architecture,API use, database interaction, and user-friendly design to build a real-world sports facility management system.
+Welcome to **Football Arena**, a full-featured ASP.NET MVC web application designed to manage football activities such as Field slot booking, Buy Products, Cart management, and admin slot controls. This project demonstrates the integration of MVC architecture, API use, database interaction, and user-friendly design to build a real-world sports facility management system.
 
 ---
 
@@ -66,6 +66,9 @@ Run with IIS Express or configure it in your preferred local server setup.
 🛒 Cart Page
 ![image](https://github.com/user-attachments/assets/e1ab0357-09e7-4253-9519-cf33ffe25540)
 
+🛒 Checkout
+![image](https://github.com/user-attachments/assets/ea369edb-5f06-4c64-b483-b818b891e422)
+
 🕓 Slot Booking
 ![image](https://github.com/user-attachments/assets/443aa4b4-ed0b-4d8c-8d4d-160e01a29c63)
 
@@ -78,8 +81,6 @@ Run with IIS Express or configure it in your preferred local server setup.
 📄 Sales History
 ![image](https://github.com/user-attachments/assets/7c05d052-b221-4fb8-aa32-e7bf4af2281d)
 
-🛒 Checkout
-![image](https://github.com/user-attachments/assets/ea369edb-5f06-4c64-b483-b818b891e422)
 
 
 👨‍💼 Admin Features
@@ -110,5 +111,5 @@ Razor View Engine
 Pull requests are welcome! If you have suggestions or find issues, please fork the repo and submit a PR.
 
 🙋‍♂️ Author
-Lajim Khan
-GitHub: Lajimkhan
+Md. Ibrahim Khalil Lajim
+GitHub: @Lajimkhan
