@@ -13,7 +13,6 @@ Welcome to **Football Arena**, a full-featured ASP.NET MVC web application desig
 - 🧾 View Order and Booking History
 - 📦 Store Page with Product Categories
 - 🔐 Role-based Access Control (Admin/User)
-- 💳 Checkout and Payment Notification System
 - ❌ Admin Can Ban Users from Logging In
 
 ---
