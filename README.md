@@ -19,7 +19,8 @@ Welcome to **Football Arena**, a full-featured ASP.NET MVC web application desig
 
 ## 🗂️ Project Structure
 
-"IconicsArena/
+``` 
+IconicsArena/
 ├── App_Data/
 ├── App_Start/
 │   ├── BundleConfig.cs
@@ -86,7 +87,8 @@ Welcome to **Football Arena**, a full-featured ASP.NET MVC web application desig
 ├── Global.asax
 ├── packages.config
 └── Web.config
-"
+
+```
 
 ---
 
