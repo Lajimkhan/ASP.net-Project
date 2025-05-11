@@ -77,10 +77,8 @@ Run with IIS Express or configure it in your preferred local server setup.
 📄 Sales History
 ![image](https://github.com/user-attachments/assets/7c05d052-b221-4fb8-aa32-e7bf4af2281d)
 
-
-![checklist](https://github.com/user-attachments/assets/309c4a29-70c5-4450-9d23-c3c18a7fc610) Checkout
+🛒 Checkout
 ![image](https://github.com/user-attachments/assets/ea369edb-5f06-4c64-b483-b818b891e422)
-
 
 
 👨‍💼 Admin Features
