@@ -111,5 +111,5 @@ Razor View Engine
 Pull requests are welcome! If you have suggestions or find issues, please fork the repo and submit a PR.
 
 🙋‍♂️ Author
-Md. Ibrahim Khalil Lajim
-GitHub: @Lajimkhan
+Md. Ibrahim Khalil Lajim 
+
